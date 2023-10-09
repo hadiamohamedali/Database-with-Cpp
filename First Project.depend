@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696888967 source:d:\database with cpp\first project\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"../Sqlite3/Sqlite3/sqlite3.h"
+
+1694439823 d:\database with cpp\sqlite3\sqlite3\sqlite3.h
+	<stdarg.h>
+
